@@ -42,6 +42,7 @@ Das *Plantar Fascia Module* bildet die menschliche Plantarfaszette mithilfe eine
 * **Module 6–8 (Zehen / Toes):** Kompakte, distal geschlossene Struktur; identischer Wälzkontakt zu den Modulen 1–3. Modul 8 enthält die Kabel-Endklemmung.
 
 ![SoftFoot Bodenanpassung Demo](./foot_demo.png)
+
 *Abbildung: Anpassung des SoftFoot-Moduls an unterschiedliche Untergründe (Ebener Boden, Spalt/Schwebe-Demo, Gefälle)*
 
 ---
