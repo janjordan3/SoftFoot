@@ -14,7 +14,7 @@ Eine schnelle Übersicht zur Orientierung im Repository:
 │   ├── Anhang_A_KI_Nutzung.md                          # Anhang A: Erklärung zur Nutzung von KI
 │   ├── Anhang_B_Materialeigenschaften.md               # Anhang B: Materialeigenschaften PETG HF
 │   └── Anhang_C_Bauteildokumentation.md                # Anhang C: Konstruktion & Technischer Anhang
-│   └── Anhang_D_Testprotokoll_Tensegrity_Achse.pdf      #Anhang D: Testprotokoll 
+│   └── Anhang_D_Testprotokoll_Tensegrity_Achse.pdf     # Anhang D: Testprotokoll 
 ├── src/                                                # Python-Skripte zur Druckmatrix
 │   ├── 01_visualization_heatmap.py                     # Script 1: Visualisierung der Druckmatrix
 │   └── 02_data_acquisition.py                          # Script 2: Auswertung (Active Area & WPS)
